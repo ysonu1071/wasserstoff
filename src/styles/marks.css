@@ -1,0 +1,6 @@
+.marks path{
+    stroke: cadetblue;
+    stroke-width: 4;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+}
